@@ -4,14 +4,14 @@ By Nick Thompson 3/10/2023
 
 In 1980 Nintendo released the very first handheld game console called the Game & Watch. There were 59 different versions and each of them contained a single game, a clock, and an alarm. The different games varied from Balloon Fight to Mario to The Legend of Zelda. It was the earliest Nintendo video game console to gain worldwide success. 
 
-(A Game & Watch picture courtesy of Nintendo Fandom)
+[A Game & Watch picture courtesy of Nintendo Fandom](https://nintendo.fandom.com/wiki/List_of_Nintendo_handhelds)
 
 ![game_and_watch](/ux-portfolio-SupremeFonzie/assets/game_and_watch.jpg)
 
 
 After the success of the Game & Watch, Nintendo ended up creating several more handheld consoles that also seemed to do very well such as the Gameboy, the Gameboy Color, Gameboy Advance, Pokemon Mini, the DS, DSI, 3DS, 2DS, and most recently the Switch and Switch OLED. 
 
-(image courtesy of Dystify on Twitter)
+[image courtesy of Dystify on Twitter](https://twitter.com/Dystify/status/819216822956388352)
 
 ![evolution_of_nintendo](/ux-portfolio-SupremeFonzie/assets/evolution_of_nintendo.jpg)
 
