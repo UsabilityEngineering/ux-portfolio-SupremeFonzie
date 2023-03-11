@@ -6,14 +6,14 @@ In 1980 Nintendo released the very first handheld game console called the Game &
 
 (A Game & Watch picture courtesy of Nintendo Fandom)
 
-![game and watch](game and watch.jpg)
+![game_and_watch](game_and_watch.jpg)
 
 
 After the success of the Game & Watch, Nintendo ended up creating several more handheld consoles that also seemed to do very well such as the Gameboy, the Gameboy Color, Gameboy Advance, Pokemon Mini, the DS, DSI, 3DS, 2DS, and most recently the Switch and Switch OLED. 
 
 (image courtesy of Dystify on Twitter)
 
-![evolution of nintendo](evolution of nintendo.jpg)
+![evolution_of_nintendo](evolution_of_nintendo.jpg)
 
 
 Since its release in 2017, the Nintendo Switch has been dominating the market and has been one of the top-selling handheld consoles of all time. With this, you would think that the UI would be fairly **intuitive**, however, I found that the task of adding a new user (this is the goal)  was more difficult than I would have expected. 
