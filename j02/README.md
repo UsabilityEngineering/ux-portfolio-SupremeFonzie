@@ -1,4 +1,4 @@
-# Setting Up Users on the Nintendo Switch
+# REWRITE of Setting Up Users on the Nintendo Switch
 
 By Nick Thompson 5/15/2023
 
