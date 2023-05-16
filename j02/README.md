@@ -1,49 +1,45 @@
 # Setting Up Users on the Nintendo Switch
 
-By Nick Thompson 3/10/2023
+By Nick Thompson 5/15/2023
 
-In 1980 Nintendo released the very first handheld game console called the Game & Watch. There were 59 different versions and each of them contained a single game, a clock, and an alarm. The different games varied from Balloon Fight to Mario to The Legend of Zelda. It was the earliest Nintendo video game console to gain worldwide success. 
+In 1980, Nintendo introduced the groundbreaking Game & Watch, marking their entry into the handheld game console market. There were 59 distinct versions of the Game & Watch, each featuring a single game, a clock, and an alarm. The games varied greatly from Zelda to Mario to Donkey Kong. However, the Game & Watch quickly gained global popularity as one of the earliest handheld consoles to achieve widespread success.
 
 [A Game & Watch picture courtesy of Nintendo Fandom](https://nintendo.fandom.com/wiki/List_of_Nintendo_handhelds)
 
 ![game_and_watch](/ux-portfolio-SupremeFonzie/assets/game_and_watch.jpg)
 
-
-After the success of the Game & Watch, Nintendo ended up creating several more handheld consoles that also seemed to do very well such as the Gameboy, the Gameboy Color, Gameboy Advance, Pokemon Mini, the DS, DSI, 3DS, 2DS, and most recently the Switch and Switch OLED. 
+Building on this triumph, Nintendo went on to develop a series of highly successful handheld consoles, including the Game Boy, Game Boy Color, Game Boy Advance, Pokemon Mini, DS, DSi, 3DS, 2DS, and most recently the Switch and Switch OLED. 
 
 [image courtesy of Dystify on Twitter](https://twitter.com/Dystify/status/819216822956388352)
 
 ![evolution_of_nintendo](/ux-portfolio-SupremeFonzie/assets/evolution_of_nintendo.jpg)
 
+Since its launch in 2017, the Nintendo Switch has emerged as a dominant force in the market, attaining astounding sales figures and it quickly became one of the top-selling handheld consoles of all time. Despite its popularity, however, I encountered unexpected challenges when trying to add a user to the device (the task). A process that did not match my preconceived **mental model** and caused much difficulty when it comes to **learnability**.  
 
-Since its release in 2017, the Nintendo Switch has been dominating the market and has been one of the top-selling handheld consoles of all time. With this, you would think that the UI would be fairly **intuitive**, however, I found that the task of adding a new user (this is the goal)  was more difficult than I would have expected. 
-
-The first thing that appears after booting the system is the home screen. At the bottom of the screen, there is a dock that has various different options including Nintendo Switch Online, Messages, Shop, Album, Controller, Settings, and Power. Above that and in the middle of the screen are the various games and apps. In the top right corner of the screen, there’s the time, whether or not there’s wifi (if there is wifi, the strength), and the battery percentage. In the top left corner of the screen, there are any users that are on the console.
+Upon booting up the system, the home screen displays a dock at the bottom that presents a range of options such as Nintendo Switch Online, Messages, Shop, Album, Controller, Settings, and Power. Positioned in the center of the screen there are various games and applications, while the top right corner showcases the time, wifi connectivity status (including signal strength if connected), and battery percentage. The top left corner indicates the currently logged-in users on the console.
 
 ![IMG_3783IMG_3785](/ux-portfolio-SupremeFonzie/assets/IMG_3783.jpg)
 
-My first thought on adding a new user was to click on one of the existing users in the top left-hand corner of the screen, so I clicked on my user icon (the Yoshi with the blue background). It brings me to a new page titled Nick’s Page which has several sub-menus. The sub-menus are Profile, Friend List, Trending, Online Play Invites, Friend Suggestions, Add Friend, and User Settings. However, none of these menus have any options that allow you to add a new user.
+Although this turned out to be a minor oversight, the system's **error tolerance** was sufficiently high, allowing for me to easily recover. By simply pressing the "b" button (which is designated as the back button) I was promptly returned to the previous screen. The familiarity and frequent use of the "b" button as the back button and the "a" button as the accept button contribute to these functions becoming easily used throughout the system.
 
 ![IMG_3785](/ux-portfolio-SupremeFonzie/assets/IMG_3785.jpg)
 
-This is a simple mistake and luckily it is one where the **error tolerance** is fairly high and easy to recover from because with the simple press of a button (the b button) you are able to easily able to travel back to the screen you were on before. The b button (as the back button) and the a button (as the accept button) are two functions that are easily **learned** and repeatedly used throughout the system 
+Although this turned out to be a minor oversight, the system's **error tolerance** was sufficiently high, allowing for me to easily **recover**. By simply pressing the "b" button (which is designated as the back button) I was promptly returned to the previous screen. The familiarity and frequent use of the "b" button as the back button and the "a" button as the accept button contribute to these functions becoming easily learned and repeated throughout the system.
 
-Since my first attempt didn’t work, my next thought was to go to click the setting button on the bottom of the screen in the dock. Once the settings menu opens there are several options that you are able to choose from. Lo and behold one of those options is users. The user's page lists the users that are on the device, below that is the option to “Change Order” and below that option is “Add User” (the option we have been looking for), and finally below that near the bottom of the screen is the option to “Transfer Your User Data”. 
+With my initial setback, I decided to lick my wounds and carry on and try to access the settings menu by selecting the settings button located at the bottom of the screen (in the dock). Upon accessing the settings menu, a variety of options became available. To my satisfaction, one of the options included a dedicated "Users" section. After opening the user management page, I discovered a list of existing users on the device. Located below the user list was the long-awaited "Add User" option, preceded by the option to "Change Order." Towards the bottom of the screen, an additional option to "Transfer Your User Data" was also visible.
 
 ![IMG_3787](/ux-portfolio-SupremeFonzie/assets/IMG_3787.jpg)
 
-I figured that the **“safe”** option would be to select the button that says “Add User”. From there a new screen will appear that allows two options “Create New User” and “Import User Data from Another Console”. 
+Considering that the "Add User" option is what I have been looking for, I selected it (deciding it would be the **safest** choice) which prompted a new screen offering two choices: "Create New User" and "Import User Data from Another Console."
 
 ![IMG_3788](/ux-portfolio-SupremeFonzie/assets/IMG_3788.jpg)
 
-I’m trying to add a new user, so I clicked the add user button and was brought to a page where I get to select an icon from the 9 available options on the screen or I can press “More Options”. 
+Since my objective was to add a new user, I proceeded to click the "Add User" button, which directed me to a page where I could choose an icon from a selection of 9 available options displayed on the screen. Alternatively, I could explore additional choices by selecting "More Options." 
 
 ![IMG_3789](/ux-portfolio-SupremeFonzie/assets/IMG_3789.jpg)
 
-I don’t like the options I’m given so I press the “More Options” button which allows me to pick a character from a variety of Nintendo games and the background that will be behind that character and a big button that says, “OK”. 
+Finding the initially presented options not to my liking, I pressed the "More Options" button, granting access to a wider range of characters from various Nintendo games, along with the option to select a background for the chosen character. After I picked my choices the "OK" button was available to confirm the selection.
 
 ![IMG_3790](/ux-portfolio-SupremeFonzie/assets/IMG_3790.jpg)
 
-After pressing the “OK” button you are bought to a screen where you are prompted to enter the name for the user. Once you have imputed the name for your user you can press the new button that says “OK” and once you have pressed that button the new user is created. 
-
-
+Upon pressing the "OK" button, I was directed to a screen where I was prompted to enter the name of the new user. After inputting the user’s name (which was user), I proceeded to press the "OK" button once again, finally creating a new user.
