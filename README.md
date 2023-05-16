@@ -11,3 +11,5 @@ Coming soon.
 ## UX Journal
 
 [Setting Up Users on the Nintendo Switch](j01/)
+
+[REWRITE of Setting Up Users on the Nintendo Switch](j02/)
